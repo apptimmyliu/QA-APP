@@ -16,6 +16,7 @@
 		A5ACBD292AB97C7D00EC097B /* QA_APPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ACBD282AB97C7D00EC097B /* QA_APPTests.swift */; };
 		A5ACBD332AB97C7D00EC097B /* QA_APPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ACBD322AB97C7D00EC097B /* QA_APPUITests.swift */; };
 		A5ACBD352AB97C7D00EC097B /* QA_APPUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ACBD342AB97C7D00EC097B /* QA_APPUITestsLaunchTests.swift */; };
+		A5ACBD422AB97F3200EC097B /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ACBD412AB97F3200EC097B /* Question.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A5ACBD2E2AB97C7D00EC097B /* QA APPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "QA APPUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5ACBD322AB97C7D00EC097B /* QA_APPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QA_APPUITests.swift; sourceTree = "<group>"; };
 		A5ACBD342AB97C7D00EC097B /* QA_APPUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QA_APPUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A5ACBD412AB97F3200EC097B /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A5ACBD132AB97C7B00EC097B /* SceneDelegate.swift */,
 				A5ACBD152AB97C7B00EC097B /* ViewController.swift */,
 				A5ACBD172AB97C7B00EC097B /* Main.storyboard */,
+				A5ACBD412AB97F3200EC097B /* Question.swift */,
 				A5ACBD1A2AB97C7D00EC097B /* Assets.xcassets */,
 				A5ACBD1C2AB97C7D00EC097B /* LaunchScreen.storyboard */,
 				A5ACBD1F2AB97C7D00EC097B /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5ACBD162AB97C7B00EC097B /* ViewController.swift in Sources */,
+				A5ACBD422AB97F3200EC097B /* Question.swift in Sources */,
 				A5ACBD122AB97C7B00EC097B /* AppDelegate.swift in Sources */,
 				A5ACBD142AB97C7B00EC097B /* SceneDelegate.swift in Sources */,
 			);
